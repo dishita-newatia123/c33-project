@@ -1,1 +1,2 @@
-# c33-project
+## c33 project
+plinko with scores 
